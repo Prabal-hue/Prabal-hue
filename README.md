@@ -8,18 +8,16 @@ I'm Prabal Shivam <br>I'm a data analyst(SQL) and python user🧑‍💻 <br>I'm
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github.com/Prabal-hue/Text-editor Shivam&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Prabal Shivam&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Prabal Shivam&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=Prabal-hue)
+![](https://github.com/Prabal-hue/Text-editor 
+![](https://github.com/Prabal-hue/OOPs-)
+![](https://github.com/Prabal-hue/Ai-chat-boat-)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Prabal Shivam&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github.com/Prabal-hue/Text-editor)
+![](https://github.com/Prabal-hue/Fake-news-detector-)
 
 ---
 [![](https://komarev.com/ghpvc/?username=Prabal Shivam&icon=0&color=0)](https://visitcount.itsvg.in)
