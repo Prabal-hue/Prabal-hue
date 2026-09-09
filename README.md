@@ -8,9 +8,11 @@ I'm Prabal Shivam <br>I'm a data analyst(SQL) and python user🧑‍💻 <br>I'm
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github.com/Prabal-hue/Text-editor)
-![](https://github.com/Prabal-hue/OOPs-)
-![](https://github.com/Prabal-hue/Ai-chat-boat-)
+[![Text-editor](https://github-readme-stats.vercel.app/api/pin/?username=Prabal-hue&repo=Text-editor&theme=radical)](https://github.com/Prabal-hue/Text-editor)
+
+[![OOPs-](https://github-readme-stats.vercel.app/api/pin/?username=Prabal-hue&repo=OOPs-&theme=radical)](https://github.com/Prabal-hue/OOPs-)
+
+[![Ai-chat-boat-](https://github-readme-stats.vercel.app/api/pin/?username=Prabal-hue&repo=Ai-chat-boat-&theme=radical)](https://github.com/Prabal-hue/Ai-chat-boat-)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
