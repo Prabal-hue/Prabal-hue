@@ -1,27 +1,33 @@
-# 💫 About Me:
-I'm Prabal Shivam <br>I'm a data analyst(SQL) and python user🧑‍💻 <br>I'm currently a student 📚<br>I'm currently pursuing Btech from (Adtu)👨‍🔬 <br>My hobbies are reading books📕 and dancing 🕺<br><br>  
+<h1 align="center">Hi 👋, I'm Prabal Shivam</h1>
+<h3 align="center">A passionate data analyzer and coder</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prabal-hue&label=Profile%20views&color=0e75b6&style=flat" alt="prabal-hue" /> </p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pallll.__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/prabal-shivam-321a15378) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://in.pinterest.com/dhiradasnath/) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/https://www.twitch.tv/prabalshivam) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/PrabalShivgcz2) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@dhiradasnath3592) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Prabal Shivam) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prabalshivam@gmail.com) 
+<p align="left"> <a href="https://twitter.com/https://x.com/prabalshivgcz2" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/prabalshivgcz2?logo=twitter&style=for-the-badge" alt="https://x.com/prabalshivgcz2" /></a> </p>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-# 📊 GitHub Stats:
-[![Text-editor](https://github-readme-stats.vercel.app/api/pin/?username=Prabal-hue&repo=Text-editor&theme=radical)](https://github.com/Prabal-hue/Text-editor)
+- 🌱 I’m currently learning **Sql, pandas and numpy**
 
-[![OOPs-](https://github-readme-stats.vercel.app/api/pin/?username=Prabal-hue&repo=OOPs-&theme=radical)](https://github.com/Prabal-hue/OOPs-)
+- 👨‍💻 All of my projects are available at [https://github.com/Prabal-hue](https://github.com/Prabal-hue)
 
-[![Ai-chat-boat-](https://github-readme-stats.vercel.app/api/pin/?username=Prabal-hue&repo=Ai-chat-boat-&theme=radical)](https://github.com/Prabal-hue/Ai-chat-boat-)
+- 📫 How to reach me **prabalshivam@gmail.com**
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+- ⚡ Fun fact **I think I am hardworking**
 
-### 🔝 Top Contributed Repo
-![](https://github.com/Prabal-hue/Text-editor)
-![](https://github.com/Prabal-hue/Fake-news-detector-)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/https://x.com/prabalshivgcz2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/prabalshivgcz2" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/prabal-shivam-321a15378" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/prabal-shivam-321a15378" height="30" width="40" /></a>
+<a href="https://instagram.com/pallll.__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pallll.__" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uck3ojfk7nqmfcp8ou19dulg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uck3ojfk7nqmfcp8ou19dulg" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.com/channels/1547295505359446077/1547295505858691073" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/channels/1547295505359446077/1547295505858691073" height="30" width="40" /></a>
+</p>
 
----
-[![](https://komarev.com/ghpvc/?username=Prabal Shivam&icon=0&color=0)](https://visitcount.itsvg.in)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prabal-hue&show_icons=true&locale=en&layout=compact" alt="prabal-hue" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prabal-hue&show_icons=true&locale=en" alt="prabal-hue" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prabal-hue&" alt="prabal-hue" /></p>
+
