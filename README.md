@@ -13,7 +13,7 @@ I'm Prabal Shivam <br>I'm a data analyst(SQL) and python user🧑‍💻 <br>I'm
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Prabal Shivam&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Prabal Shivam&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Prabal-hue)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
